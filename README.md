@@ -6,7 +6,7 @@
 |Date                |Contents                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
 |9/5|`Figma`            |[Sample Figma Project](https://www.figma.com/design/6aABMULwr5P16tP1SRK5NO/Untitled?node-id=0-1&node-type=canvas)                       |
-|9/12|`HTML/CSS/Javascript`            |TBA|
+|9/12|`HTML/CSS/Javascript`            |[Challenge](https://github.com/KISA-DevClub/FA24/issues/1)|
 |9/19|`HTML/CSS/Javascript`|TBA|
 |9/26|`React`|TBA|
 |10/3|`Ideathon💡`|TBA|

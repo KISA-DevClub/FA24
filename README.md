@@ -9,7 +9,7 @@
 |9/12|`HTML/CSS/Javascript`            |[Challenge](https://github.com/KISA-DevClub/FA24/issues/1)|
 |9/19|`HTML/CSS/Javascript`|[Challenge](https://github.com/KISA-DevClub/FA24/issues/2)|
 |9/26|`React Project Setup`||
-|10/3|`React (1)`|TBA|
+|10/3|`React (1)`|[Challenge](https://github.com/KISA-DevClub/FA24/issues/3)|
 |10/10|`React (2)`|TBA|
 |10/17|`Ideathon💡`|TBA|
 |10/24|`Project💻`|TBA|

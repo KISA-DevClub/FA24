@@ -13,7 +13,6 @@
 |10/10|`React (2)`|[Challenge](https://github.com/KISA-DevClub/FA24/issues/4)|
 |10/17|`Ideathon💡`||
 |10/24|`Git/Github`|TBA|
-|10/31|`Toy Project`|TBA|
 |11/7|`Markdown`|TBA|
 |11/14|`Pitching`|TBA
 |11/21|`Prompt Engineering`|TBA|
